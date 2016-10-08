@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-sv",
+  "description": "The most comprehensive collection of stopwords for the swedish language.",
+  "keywords": [
+    "swedish",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-sv",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-sv.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
